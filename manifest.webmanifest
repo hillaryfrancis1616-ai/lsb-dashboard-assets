@@ -1,0 +1,15 @@
+{
+  "name": "OMB Dashboard",
+  "short_name": "OMB Dashboard",
+  "description": "OMB Dashboard launcher for authorized Office of the Ombudsman personnel",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f0f4fa",
+  "theme_color": "#132e52",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
